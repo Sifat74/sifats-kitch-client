@@ -24,7 +24,6 @@ const Navbar = () => {
                         {links}
                     </ul>
                     <div className='block md:hidden shrink'>
-                        {/* <IoMdMenu className='text-3xl text-[#F01543]'></IoMdMenu> */}
                         <div className="dropdown">
                             <div tabIndex={0} role="button" className="btn m-1 bg-transparent border-none p-0 text-3xl text-[#F01543]"><IoMdMenu></IoMdMenu></div>
                             <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-[#000C28] rounded-box w-52 text-[#F01543]">
