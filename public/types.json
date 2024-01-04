@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/yqzRHQB/chinese.jpg",
+        "name": "chinese"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/fF1hx9m/italian.jpg",
+        "name": "italian"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/TbKDCc0/indian.jpg",
+        "name": "indian"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/z2vsz4J/fastfood.jpg",
+        "name": "fast food"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/Hz97b0b/soup.jpg",
+        "name": "soups"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/842LHmX/dessert.jpg",
+        "name": "dessert"
+    }
+]
